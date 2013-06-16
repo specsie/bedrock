@@ -1,4 +1,4 @@
 bedrock
 ==========
 
-Primitive, unconstrined module of the specsy meta-spec design system
+Primitive, unconstrained module of the specsy meta-spec design system

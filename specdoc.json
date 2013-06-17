@@ -1,11 +1,13 @@
 {
     "json-schema": [
     ], 
+    "specdoc": {
+        "spec": ""
+    }, 
     "includes": [
     ], 
-    "inherits": {
-    }, 
-    "spec": "", 
+    "inherits": [
+    ], 
     "constraints": [
     ], 
     "description": [
